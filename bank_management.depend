@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1681633942 source:d:\my documents\bank_management\bst_node.cpp
+	"BST_node.h"
+	<string>
+	<iostream>
+
+1682359432 d:\my documents\bank_management\bst_node.h
+	<string>
+	<iostream>
+
+1682010478 source:d:\my documents\bank_management\main.cpp
+	<iostream>
+	"admin.h"
+	"customer.h"
+
+1682358358 d:\my documents\bank_management\admin.h
+	<iostream>
+	"BST_tree.h"
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<string>
+	<stdio.h>
+	<conio.h>
+
+1682360516 d:\my documents\bank_management\bst_tree.h
+	"BST_node.h"
+
+1682360538 source:d:\my documents\bank_management\bst_tree.cpp
+	"BST_tree.h"
+	<iostream>
+	<fstream>
+	<iostream>
+
+1682360675 d:\my documents\bank_management\customer.h
+	<iostream>
+	<conio.h>
+
